@@ -19,7 +19,16 @@ Proporcionar uma experiência **imersiva e acessível**, permitindo que os usuá
 
 ---
 
-## 🚀 Como rodar o projeto localmente (Linux)
+## 🚀 Como rodar o projeto localmente (Windows e Linux)
+
+### 📋 Pré-requisitos
+
+Certifique-se de ter instalado na sua máquina:
+
+* **Node.js** (versão 20.19.0 ou superior)
+* **Git**
+
+### ⚙️ Passo a passo
 
 ```bash
 # Clone o repositório
@@ -34,6 +43,7 @@ npm install
 # Inicie o servidor de desenvolvimento
 npm run dev
 ```
+
 
 ---
 
