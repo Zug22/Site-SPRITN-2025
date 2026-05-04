@@ -23,3 +23,11 @@ errors
 *.njsproj
 *.sln
 *.sw?
+
+# Artefatos de Build do Vite e TS
+.vite
+*.tsbuildinfo
+
+# Artefatos de Build do Vite e TS
+.vite
+*.tsbuildinfo
